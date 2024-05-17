@@ -1,0 +1,101 @@
+Difficulty,Questions,Options,Correct answer
+1,How would you classify the given number 1?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",Perfect square
+2,How would you classify the given number 5?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",Prime number
+3,How would you classify the given number 25?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",Perfect square
+4,How would you classify the given number 44?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+5,How would you classify the given number 107?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",Prime number
+6,How would you classify the given number 139?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",Prime number
+7,How would you classify the given number 204?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+8,How would you classify the given number 178?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",Product of two distinct prime numbers
+9,How would you classify the given number 535?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",Product of two distinct prime numbers
+10,How would you classify the given number 348?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+11,How would you classify the given number 251?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",Prime number
+12,How would you classify the given number 884?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+13,How would you classify the given number 758?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",Product of two distinct prime numbers
+14,How would you classify the given number 1051?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",Prime number
+15,How would you classify the given number 2028?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+16,How would you classify the given number 3570?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+17,How would you classify the given number 1632?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+18,How would you classify the given number 4846?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",Product of two distinct prime numbers
+19,How would you classify the given number 802?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",Product of two distinct prime numbers
+20,How would you classify the given number 5850?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+21,How would you classify the given number 3892?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+22,How would you classify the given number 2310?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+23,How would you classify the given number 5173?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",Product of two distinct prime numbers
+24,How would you classify the given number 3722?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",Product of two distinct prime numbers
+25,How would you classify the given number 4076?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+26,How would you classify the given number 10353?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+27,How would you classify the given number 11197?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",Prime number
+28,How would you classify the given number 2185?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+29,How would you classify the given number 13055?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+30,How would you classify the given number 11943?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+31,How would you classify the given number 1193?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",Prime number
+32,How would you classify the given number 19076?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+33,How would you classify the given number 30225?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+34,How would you classify the given number 2236?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+35,How would you classify the given number 7624?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+36,How would you classify the given number 27284?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+37,How would you classify the given number 8036?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+38,How would you classify the given number 49154?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+39,How would you classify the given number 35336?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+40,How would you classify the given number 33973?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",Product of two distinct prime numbers
+41,How would you classify the given number 31781?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",Product of two distinct prime numbers
+42,How would you classify the given number 28951?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+43,How would you classify the given number 6958?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+44,How would you classify the given number 69105?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+45,How would you classify the given number 31853?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",Product of two distinct prime numbers
+46,How would you classify the given number 79976?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+47,How would you classify the given number 98023?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",Product of two distinct prime numbers
+48,How would you classify the given number 12679?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",Product of two distinct prime numbers
+49,How would you classify the given number 111021?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+50,How would you classify the given number 95696?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+51,How would you classify the given number 91375?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+52,How would you classify the given number 9989?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",Product of two distinct prime numbers
+53,How would you classify the given number 48893?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",Product of two distinct prime numbers
+54,How would you classify the given number 25434?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+55,How would you classify the given number 156686?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+56,How would you classify the given number 39639?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+57,How would you classify the given number 90099?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+58,How would you classify the given number 112341?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",Product of two distinct prime numbers
+59,How would you classify the given number 120811?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",Prime number
+60,How would you classify the given number 93509?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",Product of two distinct prime numbers
+61,How would you classify the given number 43907?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+62,How would you classify the given number 196194?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+63,How would you classify the given number 163246?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+64,How would you classify the given number 135561?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+65,How would you classify the given number 266195?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",Product of two distinct prime numbers
+66,How would you classify the given number 42190?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+67,How would you classify the given number 187012?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+68,How would you classify the given number 42882?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+69,How would you classify the given number 234965?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",Product of two distinct prime numbers
+70,How would you classify the given number 134361?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+71,How would you classify the given number 91335?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+72,How would you classify the given number 68270?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+73,How would you classify the given number 328166?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+74,How would you classify the given number 127286?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+75,How would you classify the given number 269929?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+76,How would you classify the given number 379001?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+77,How would you classify the given number 42142?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+78,How would you classify the given number 359310?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+79,How would you classify the given number 136278?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+80,How would you classify the given number 186907?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",Product of two distinct prime numbers
+81,How would you classify the given number 319094?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+82,How would you classify the given number 456842?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",Product of two distinct prime numbers
+83,How would you classify the given number 438273?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+84,How would you classify the given number 57536?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+85,How would you classify the given number 147288?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+86,How would you classify the given number 86074?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",Product of two distinct prime numbers
+87,How would you classify the given number 360463?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",Product of two distinct prime numbers
+88,How would you classify the given number 321632?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+89,How would you classify the given number 193047?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+90,How would you classify the given number 419270?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+91,How would you classify the given number 127786?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+92,How would you classify the given number 173900?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+93,How would you classify the given number 641093?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",Prime number
+94,How would you classify the given number 675964?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+95,How would you classify the given number 20176?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+96,How would you classify the given number 760608?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+97,How would you classify the given number 503629?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",Product of two distinct prime numbers
+98,How would you classify the given number 521556?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",None of the above
+99,How would you classify the given number 867967?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",Product of two distinct prime numbers
+100,How would you classify the given number 239762?,"['Prime number', 'Perfect square', 'Product of two distinct prime numbers', 'None of the above']",Product of two distinct prime numbers
